@@ -1,0 +1,13 @@
+{
+    "name": "pantheon-upstreams/upstream-configuration",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {
+           },
+    "version": "1.0.1"
+}
