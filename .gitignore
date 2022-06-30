@@ -11,6 +11,8 @@ web/sites/default/default.settings.php
 web/sites/default/settings.pantheon.php
 #web/sites/development.services.yml
 web/sites/example.settings.local.php
+composer.lock
+.lando.yml
 
 # Pantheon commits a settings.php for environment-specific settings.
 # Place local settings in settings.local.php
